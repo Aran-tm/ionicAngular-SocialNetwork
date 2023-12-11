@@ -8,4 +8,4 @@ After this, to raise the application server, use: ionic serve.
 
 ![example](https://github.com/Aran-tm/ionicAngular-SocialNetwork/assets/113542332/5ec69047-4e7e-46f8-9a59-5989b9735169)
 
-Good Luck Coder Lovers 😉
+Good Luck Coders 😉
